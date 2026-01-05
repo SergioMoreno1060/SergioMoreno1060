@@ -10,7 +10,7 @@ I work on transforming bussiness data into **actionable insights** through analy
 ---
 
 ## 🧠 What I do
-- Data analysis and cleaning (commercial & clinical datasets)
+- Data analysis and cleaning (commercial, insurance, tech, health datasets)
 - KPI definition and dashboarding for decision-making
 - Applied statistics and machine learning
 - Automation and process optimization using data
