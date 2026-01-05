@@ -1,7 +1,7 @@
 # Hi, I'm Sergio Moreno 👋
 
-Biomedical Engineer with a strong focus on **Data Science, Artificial Intelligence, and Applied Statistics**.  
-I work on transforming commercial and clinical data into **actionable insights** through analytics, visualization, and machine learning.
+Data Analyst with an engineering background and specialization in **Data Science, Artificial Intelligence, and Applied Statistics**.  
+I work on transforming bussiness data into **actionable insights** through analytics, visualization, and machine learning.
 
 📍 Lima, Peru  
 🎓 Biomedical Engineering – PUCP / UPCH  
